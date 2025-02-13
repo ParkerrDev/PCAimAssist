@@ -78,7 +78,7 @@ Follow these sparkly steps to get your TensorRT ready for action! 🛠️✨
 
   ## Now just run it!!
    ```
-   python ./main_tensorrt.py
+   python ./main.py
    ```
 
 If you've followed these steps, you should be asked which window to use and it should be displaying a visual of the current game! ⚙️🚀
