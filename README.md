@@ -3,7 +3,9 @@
 Fork of https://github.com/RootKit-Org/AI-Aimbot
 
 ## Changes and Optimizations
-[todo: add this]
+- Refactored project structure for better organization and maintainability.
+- Consolidated utility functions into `utils.py`.
+- Improved modularity of `gameSelection.py`, `targeting.py`, and `main.py`.
 
 ## 🧰 Requirements
 - Nvidia RTX 980 🆙, higher or equivalent

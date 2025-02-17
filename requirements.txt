@@ -1,6 +1,6 @@
 PyAutoGUI
 PyGetWindow
-opencv-python
+opencv-python-headless
 numpy
 pandas
 pywin32
@@ -13,4 +13,7 @@ ipython
 psutil
 dxcam
 onnxruntime_directml
-bettercam
+obs-websocket-py
+cupy-cuda11x
+obws_python
+simpleobsws>=1.3.0
