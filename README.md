@@ -1,11 +1,16 @@
-﻿# PCAimAssist
+# PCAimAssist
 
 Fork of https://github.com/RootKit-Org/AI-Aimbot
 
 ## Changes and Optimizations
-- Refactored project structure for better organization and maintainability.
-- Consolidated utility functions into `utils.py`.
-- Improved modularity of `gameSelection.py`, `targeting.py`, and `main.py`.
+- Uses OBS studio websocket to capture game windows directly.
+- Improved targeting logic and enhancements for third person shooters without interference.
+- Greater image input 640x640 instead of 320x320.
+- Wider screen view, not only is the image greater but it captures more screen.
+- Automatic firing capabilities.
+- Fixes previous issues with moving the window.
+- More customizable and configurable.
+
 
 ## 🧰 Requirements
 - Nvidia RTX 980 🆙, higher or equivalent
