@@ -12,9 +12,9 @@ Fork of https://github.com/RootKit-Org/AI-Aimbot
 - More customizable and configurable.
 
 ## To-do
-- [] Upgrade YOLO version to a faster more optimized version.
-- [] Use OBS streaming server instead of websocket.
-- [] Debloat repository of dependancies.
+- [ ] Upgrade YOLO version to a faster more optimized version.
+- [ ] Use OBS streaming server instead of websocket.
+- [ ] Debloat repository of dependancies.
 
 
 ## 🧰 Requirements
