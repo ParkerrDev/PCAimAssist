@@ -11,6 +11,11 @@ Fork of https://github.com/RootKit-Org/AI-Aimbot
 - Fixes previous issues with moving the window.
 - More customizable and configurable.
 
+## To-do
+- [] Upgrade YOLO version to a faster more optimized version.
+- [] Use OBS streaming server instead of websocket.
+- [] Debloat repository of dependancies.
+
 
 ## 🧰 Requirements
 - Nvidia RTX 980 🆙, higher or equivalent
